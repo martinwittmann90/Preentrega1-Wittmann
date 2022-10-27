@@ -3,7 +3,6 @@ import React from "react";
 export default function Footer() {
   return (
     <div>
-      FOOTER
       <ul>
         <li>
           <a href="https://www.linkedin.com/in/martin-wittmann-8a9469144/">Linkedin</a>
